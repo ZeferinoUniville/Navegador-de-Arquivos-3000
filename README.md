@@ -7,7 +7,7 @@ Neste Trabalho tentei fazer um programa que se assemelhasse o máximo o possíve
 
 ### `--help`    : Lista todos os comandos que poderam ser utilizados no programa
 ```
-Este comando não precisa de nenhuma Flag ou acompanhamento para funcionar, basta apenas rodar um "--help" no seu programa,
+Este comando não precisa de nenhuma Flag ou acompanhamento para funcionar, basta apenas rodar um "--help",
 como segue o exemplo:
 ```
 <p align='center'>
@@ -16,7 +16,7 @@ como segue o exemplo:
 
 ### `--version` : Mostra versão atual do programa
 ```
-Este comando não precisa de nenhuma Flag ou acompanhamento para funcionar, basta apenas rodar um "--version" no seu programa,
+Este comando não precisa de nenhuma Flag ou acompanhamento para funcionar, basta apenas rodar um "--version",
 como segue o exemplo:
 ```
 <p align='center'>
@@ -52,7 +52,7 @@ como segue o exemplo:
 
 ### `ls`        : Informa todos os arquivos dentro do diretório atual
 ```
-Este comando não precisa de nenhuma Flag ou acompanhamento para funcionar, basta apenas rodar um "ls" no seu programa,
+Este comando não precisa de nenhuma Flag ou acompanhamento para funcionar, basta apenas rodar um "ls",
 como segue o exemplo:
 ```
 <p align='center'>
@@ -79,7 +79,7 @@ como segue o exemplo:
 
 ### `exit`      : Encerra o programa
 ```
-Este comando não precisa de nenhuma Flag ou acompanhamento para funcionar, basta apenas rodar um "exit" no seu programa,
+Este comando não precisa de nenhuma Flag ou acompanhamento para funcionar, basta apenas rodar um "exit",
 como segue o exemplo:
 ```
 <p align='center'>
